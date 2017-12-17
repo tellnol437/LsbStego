@@ -10,7 +10,7 @@ namespace LsbStego.Encryption {
 	/// This class provides static methods for encrypting strings with supplied passwords
 	/// The class and its methods were taken from a code project found at
 	/// https://www.codeproject.com/Articles/769741/Csharp-AES-bits-Encryption-Library-with-Salt
-	/// although thry have been modified.
+	/// although they have been modified.
 	/// </summary>
 	public static class AES {
 		
